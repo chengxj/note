@@ -1,0 +1,5 @@
+1、scp命令
+scp /ultrapower/smartlog root@10.0.0.116:/ultrapower/smartlog
+需要远程机器开通ssh服务
+
+2、
